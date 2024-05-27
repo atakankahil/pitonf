@@ -1,0 +1,13 @@
+The Titanic, a British passenger liner, sank on its first journey from Southampton to New York City on April 15, 1912, after hitting an iceberg in the North Atlantic, resulting in over 1,500 deaths. Use the dataset provided in the Data folder to do the following tasks:
+
+- exploratory data analysis (EDA): create summary statistics of the numeric columns and visualizations (plot the distribution of the target variable, age distribution, survival counts by gender, survival counts by passenger class) (10p)
+
+- data preprocessing and feature engineering: dealing with missing values and outliers, normalisation, one-hot encoding (in case some of the steps are unnecessary, write a comment on it) (10p)
+
+- use a machine learning model of your choice to train on the dataset (10p) + hyperparameter tuning (5p)
+
+Report the Area under the curve (AUC) score on the training, validation, and test set (5p)
+
+Submit your Jupyter notebook file (.ipynb) on Moodle.
+
+Answer text
